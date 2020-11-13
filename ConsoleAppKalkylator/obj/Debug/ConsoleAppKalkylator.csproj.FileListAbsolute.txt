@@ -1,0 +1,6 @@
+C:\Users\Handelsakademin\source\repos\ConsoleAppKalkylator\ConsoleAppKalkylator\bin\Debug\ConsoleAppKalkylator.exe.config
+C:\Users\Handelsakademin\source\repos\ConsoleAppKalkylator\ConsoleAppKalkylator\bin\Debug\ConsoleAppKalkylator.exe
+C:\Users\Handelsakademin\source\repos\ConsoleAppKalkylator\ConsoleAppKalkylator\bin\Debug\ConsoleAppKalkylator.pdb
+C:\Users\Handelsakademin\source\repos\ConsoleAppKalkylator\ConsoleAppKalkylator\obj\Debug\ConsoleAppKalkylator.csproj.CoreCompileInputs.cache
+C:\Users\Handelsakademin\source\repos\ConsoleAppKalkylator\ConsoleAppKalkylator\obj\Debug\ConsoleAppKalkylator.exe
+C:\Users\Handelsakademin\source\repos\ConsoleAppKalkylator\ConsoleAppKalkylator\obj\Debug\ConsoleAppKalkylator.pdb
